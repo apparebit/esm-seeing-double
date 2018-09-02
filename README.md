@@ -14,6 +14,7 @@ yarn test
 
 # The Fix
 
-Alas, as the [issue](https://github.com/standard-things/esm/issues/588) nicely
-demonstrates, [@jdalton](https://github.com/jdalton) fixed the bug in no time.
-The fix ships in __esm@3.0.82__.
+<span style="background-color:#FFDCE0;">Alas, as the
+[issue](https://github.com/standard-things/esm/issues/588) nicely demonstrates,
+[@jdalton](https://github.com/jdalton) fixed the bug in no time. The fix ships
+in __esm@3.0.82__.</span>
