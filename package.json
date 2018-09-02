@@ -1,0 +1,13 @@
+{
+  "name": "esm-seeing-double",
+  "private": true,
+  "dependencies": {
+    "esm": "3.0.81"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "node -r esm test.js"
+  }
+}
