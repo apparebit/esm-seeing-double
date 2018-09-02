@@ -4,6 +4,8 @@ is a symbolic link. As the code in this repo demonstrates, that may result in
 surprising behavior, especially for tests in monorepos. To see yourself:
 
 ```bash
-yarn install https://github.com/apparebit/esm-seeing-double
+git clone https://github.com/apparebit/esm-seeing-double
+cd esm-seeing-double
+yarn install
 yarn test
 ```
